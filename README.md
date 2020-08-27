@@ -17,4 +17,4 @@ Positions were voluntarily sent in upon the team's request by parties and candid
 [FAQ >](https://www.uni-muenster.de/IfPol/Kersting/URII/)
 
 ### Attributions
-[Attributions >](attributions.md)
+[Attributions >](attribution.md)
