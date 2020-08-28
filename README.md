@@ -19,7 +19,7 @@ We have prepared 30 statements for the upcoming municipal elections in Münster,
 **Statements** ("theses") were assembled by [Prof. Kersting's team](https://www.uni-muenster.de/IfPol/Kersting/URII/) at the University of Muenster Institute of Political Science. **Positions** were voluntarily sent in upon the team's request by parties and candidates participating in the upcoming election.
 
 ### FAQ
-[Frequently Asked Questions >](https://www.uni-muenster.de/IfPol/Kersting/URII/)
+[Frequently Asked Questions >](https://www.uni-muenster.de/IfPol/Kersting/online-wahlhilfe/Kommunalwahlcheck-FAQ.html)
 
 ### Attributions
 [Attributions >](attributions.md)
