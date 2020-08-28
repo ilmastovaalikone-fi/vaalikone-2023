@@ -5,7 +5,7 @@
 
 > A voting advice application (VAA) or election compass is a Web application that helps voters find a candidate or a party that stands closest to their preferences.
 
-We have prepared 30 statements for the upcoming municipal elections in Münster, North Rhine-Westphalia, and asked the participating parties and mayoral candidates about their positions and arguments. Almost all of them have provided comprehensive answers. Who advocates for your political views? Use our tool to find out. **[✨ Try it >](https://muenster.kommunalwahlcheck.de)**
+We have prepared 30 statements for the upcoming municipal elections in Münster, North Rhine-Westphalia, and asked the participating parties and mayoral candidates about their positions and arguments. Almost all of them have provided comprehensive answers. Who advocates for your political views? Use our tool to find out. **[✨ Try it >](https://kommunalwahlcheck.de/muenster)**
 
 ---
 
@@ -31,4 +31,4 @@ GNU General Public License v3.0\
 Source code is available at\
 https://github.com/open-election-compass/client
 
-👏 Shout-out to the Open Election Compass project, we couldn't have done it without their dedicated coding!
+👏 Shout-out to the Open Election Compass project, we couldn't have done it without their dedicated coding.
