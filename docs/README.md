@@ -31,4 +31,4 @@ GNU General Public License v3.0\
 Source code is available at\
 https://github.com/open-election-compass/client
 
-👏 Shout-out to the Open Election Compass project, we couldn't have done it without their dedicated coding!
+👏 Shout-out to the Open Election Compass project, we couldn't have done it without their dedicated coding.
