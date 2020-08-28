@@ -1,6 +1,6 @@
 ![Kommunalwahlcheck](kwc-git-header.png)
 
-# Kommunalwahlcheck 2020 Münster
+# Documentation - Kommunalwahlcheck 2020
 ##### A project at the University of Münster - Institute of Political Science
 
 > A voting advice application (VAA) or election compass is a Web application that helps voters find a candidate or a party that stands closest to their preferences.
