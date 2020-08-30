@@ -27,14 +27,15 @@ We have prepared 30 statements for the upcoming municipal elections in Münster,
 [Frequently Asked Questions >](https://www.uni-muenster.de/IfPol/Kersting/online-wahlhilfe/Kommunalwahlcheck-FAQ.html)
 
 ### Statements and positions
-**Statements** ("theses") were assembled by [Prof. Kersting's team](https://www.uni-muenster.de/IfPol/Kersting/URII/) at the University of Muenster Institute of Political Science. **Positions** were voluntarily sent in upon the team's request by parties and candidates participating in the upcoming election.
+**Statements** ("theses") were assembled by [Prof. Kersting's team](https://www.uni-muenster.de/IfPol/Kersting/URII/) at the University of Muenster Institute of Political Science.\
+**Positions** were voluntarily sent in upon the team's request by parties and candidates participating in the upcoming election.
 
 ---
 
 ### Open Election Compass
 GNU General Public License v3.0\
 Source code is available at\
-https://github.com/open-election-compass/client
+[https://github.com/open-election-compass/client](https://github.com/open-election-compass/client)
 
 👏 Shout-out to the Open Election Compass project, we couldn't have done it without their dedicated coding!
 
