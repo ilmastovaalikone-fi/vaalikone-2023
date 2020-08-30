@@ -1,7 +1,9 @@
+<!--
 ---
 layout: page
 title: Kommunalwahlcheck 2020
 ---
+-->
 
 ![Kommunalwahlcheck](img/kwc-git-header.svg)
 
