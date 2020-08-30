@@ -27,7 +27,7 @@ volt_logo.svg|https://www.volteuropa.org/visual_identity|Logo|Volt Europa A.I.S.
 
 |File|Source|Description|Credits|
 |----|------|-----------|---------|
-opengraph-bielefeld.png|Unsplash|Photo|<a href="#">#</a>
+opengraph-bielefeld.png|Unsplash|Photo|<a href="https://unsplash.com/@bwtobias?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">bennett tobias</a>
 
 ## Münster
 
@@ -43,23 +43,23 @@ mbi_ob_ms_canvas.jpg|http://xn--mnster-ist-bunt-zvb.de/kommunalwahl-2020-muenste
 oedp_ob_ms_canvas.jpg|upload via survey|Portrait|Michael Krapp
 piraten_ob_ms_canvas.jpg||Portrait|Sebastian Kroos
 spd_ob_ms_canvas.jpg|upload via survey|Portrait|Michael Jung
-opengraph-muenster.png|Unsplash|Photo|<a href="https://unsplash.com/@simonbasler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Simon Basler</a>
+opengraph-muenster.png|Unsplash|Photo|<a href="https://unsplash.com/@30daysreplay?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">30daysreplay (PR &amp; Marketing)</a>
 
 
 ## Essen
 
 |File|Source|Description|Credits|
 |----|------|-----------|---------|
-opengraph-essen.png|Unsplash|Photo|<a href="#">#</a>
+opengraph-essen.png|Unsplash|Photo|<a href="https://unsplash.com/@simonbasler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Simon Basler</a>
 
 ## Köln
 
 |File|Source|Description|Credits|
 |----|------|-----------|---------|
-opengraph-koeln.png|Unsplash|Photo|<a href="#">#</a>
+opengraph-koeln.png|Unsplash|Photo|<a href="https://unsplash.com/@ericwebr?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Eric Weber</a>
 
 ## Siegen
 
 |File|Source|Description|Credits|
 |----|------|-----------|---------|
-opengraph-siegen.png|Unsplash|Photo|<a href="#">#</a>
+opengraph-siegen.png|https://commons.wikimedia.org/wiki/File:Siegen_Siegplatte_Sued.jpg|Photo|Bob Ionescu
