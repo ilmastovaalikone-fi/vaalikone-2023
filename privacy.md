@@ -1,4 +1,7 @@
+# Privacy Policy
+
 # Datenschutzerklärung
+
 ## **1. Name und Anschrift des Verantwortlichen**
 
 Der Verantwortliche im Sinne der EU-Datenschutzgrundverordnung (DSGVO) und

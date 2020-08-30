@@ -25,7 +25,7 @@ volt_logo.svg|https://www.volteuropa.org/visual_identity|Logo|Volt Europa A.I.S.
 
 ## Bielefeld
 
-|File|Source|Description|Copyright|
+|File|Source|Description|Credits|
 |----|------|-----------|---------|
 opengraph-bielefeld.png|Unsplash|Photo|<a href="#">#</a>
 
@@ -48,18 +48,18 @@ opengraph-muenster.png|Unsplash|Photo|<a href="https://unsplash.com/@simonbasler
 
 ## Essen
 
-|File|Source|Description|Copyright|
+|File|Source|Description|Credits|
 |----|------|-----------|---------|
 opengraph-essen.png|Unsplash|Photo|<a href="#">#</a>
 
 ## Köln
 
-|File|Source|Description|Copyright|
+|File|Source|Description|Credits|
 |----|------|-----------|---------|
 opengraph-koeln.png|Unsplash|Photo|<a href="#">#</a>
 
 ## Siegen
 
-|File|Source|Description|Copyright|
+|File|Source|Description|Credits|
 |----|------|-----------|---------|
 opengraph-siegen.png|Unsplash|Photo|<a href="#">#</a>
