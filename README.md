@@ -7,7 +7,7 @@
 We have prepared 30 statements for the upcoming municipal elections in Münster, North Rhine-Westphalia, and asked the participating parties and mayoral candidates about their positions and arguments. Almost all of them have provided comprehensive answers. Who advocates for your political views? Use our VAAs to find out. **Try it** ✨
 
 - **[Münster](https://muenster.kommunalwahlcheck.de)**
-- Bielefeld
+- **[Bielefeld](https://bielefeld.kommunalwahlcheck.de)**
 - Essen
 - Köln
 - Siegen
@@ -29,6 +29,15 @@ We have prepared 30 statements for the upcoming municipal elections in Münster,
 ### Statements and positions
 **Statements** ("theses") were assembled by [Prof. Kersting's team](https://www.uni-muenster.de/IfPol/Kersting/URII/) at the University of Muenster Institute of Political Science.\
 **Positions** were voluntarily sent in upon the team's request by parties and candidates participating in the upcoming election.
+
+### Changelog
+|city|latest stable|date|
+|-|-|-|
+|Münster|v1.15|2020-08-31 21:20|
+|Bielefeld|v1.0|2020-08-31 21:30|
+|Essen|wip|||
+|Köln|wip|||
+|Siegen|wip|||
 
 ---
 
