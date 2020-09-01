@@ -8,8 +8,8 @@ We have prepared 30 statements for the upcoming municipal elections in Münster,
 
 - **[Münster](https://muenster.kommunalwahlcheck.de)**
 - **[Bielefeld](https://bielefeld.kommunalwahlcheck.de)**
-- [Essen](build/essen/index.html)
-- [Köln](build/koeln/index.html)
+- **[Essen](https://essen.kommunalwahlcheck.de)**
+- **[Köln](https://koeln.kommunalwahlcheck.de)**
 - [Siegen](build/siegen/)
 
 ---
@@ -33,10 +33,10 @@ We have prepared 30 statements for the upcoming municipal elections in Münster,
 ### Changelog
 |city|latest stable|date|
 |----|-------------|----|
-|Münster|v1.15|2020-08-31 21:20|
-|Bielefeld|v1.0|2020-08-31 21:30|
-|Essen|wip||
-|Köln|wip||
+|Münster|v1.15|2020-08-31 15:57|
+|Bielefeld|v1.0|2020-09-01 19:57|
+|Essen|v1.0|2020-09-01 23:41|
+|Köln|v1.0|2020-09-01 23:41|
 |Siegen|wip||
 
 ---
