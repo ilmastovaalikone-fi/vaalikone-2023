@@ -12,6 +12,8 @@ We have prepared 30 statements for the upcoming municipal elections in Münster,
 - **[Köln](https://koeln.kommunalwahlcheck.de)**
 - [Siegen](build/siegen/)
 
+**Statements** ("theses") were assembled by [Prof. Kersting's team](https://www.uni-muenster.de/IfPol/Kersting/URII/) at the University of Muenster Institute of Political Science. **Positions** were voluntarily sent in upon the team's request by parties and candidates participating in the upcoming election.
+
 ---
 
 ### Imprint
@@ -25,10 +27,6 @@ We have prepared 30 statements for the upcoming municipal elections in Münster,
 
 ### FAQ
 [Frequently Asked Questions >](https://www.uni-muenster.de/IfPol/Kersting/online-wahlhilfe/Kommunalwahlcheck-FAQ.html)
-
-### Statements and positions
-**Statements** ("theses") were assembled by [Prof. Kersting's team](https://www.uni-muenster.de/IfPol/Kersting/URII/) at the University of Muenster Institute of Political Science.\
-**Positions** were voluntarily sent in upon the team's request by parties and candidates participating in the upcoming election.
 
 ### Changelog
 |city|latest stable|date|
