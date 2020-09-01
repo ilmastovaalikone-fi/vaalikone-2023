@@ -10,7 +10,7 @@ We have prepared 30 statements for the upcoming municipal elections in Münster,
 - **[Bielefeld](https://bielefeld.kommunalwahlcheck.de)**
 - [Essen](build/essen/index.html)
 - [Köln](build/koeln/index.html)
-- [Siegen](build/siegen/index.html)
+- [Siegen](build/siegen/)
 
 ---
 
