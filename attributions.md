@@ -28,6 +28,7 @@ volt_logo.svg|https://www.volteuropa.org/visual_identity|Logo|Volt Europa A.I.S.
 |File|Source|Description|Credits|
 |----|------|-----------|---------|
 opengraph-bielefeld.png|Unsplash|Photo|<a href="https://unsplash.com/@bwtobias?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">bennett tobias</a>
+|more being added...|...|...|...|
 
 ## Münster
 
@@ -51,15 +52,18 @@ opengraph-muenster.png|Unsplash|Photo|<a href="https://unsplash.com/@30daysrepla
 |File|Source|Description|Credits|
 |----|------|-----------|---------|
 opengraph-essen.png|Unsplash|Photo|<a href="https://unsplash.com/@simonbasler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Simon Basler</a>
+|more being added...|...|...|...|
 
 ## Köln
 
 |File|Source|Description|Credits|
 |----|------|-----------|---------|
 opengraph-koeln.png|Unsplash|Photo|<a href="https://unsplash.com/@ericwebr?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Eric Weber</a>
+|more being added...|...|...|...|
 
 ## Siegen
 
 |File|Source|Description|Credits|
 |----|------|-----------|---------|
 opengraph-siegen.png|https://commons.wikimedia.org/wiki/File:Siegen_Siegplatte_Sued.jpg|Photo|Bob Ionescu
+|more being added...|...|...|...|
