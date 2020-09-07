@@ -16,7 +16,7 @@
 title: Kommunalwahlcheck 2020
 email: "kommunalwahlcheck@uni-muenster.de"
 description: >- # this means to ignore newlines until "baseurl:"
-  Voting advice application for 2020 NRW municipal elections
+  Voting advice application for the 2020 NRW municipal elections
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

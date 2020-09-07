@@ -1,4 +1,9 @@
 ![Kommunalwahlcheck](img/kwc-git-header.svg)
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 
 # Kommunalwahlcheck 2020 Documentation
 
@@ -36,6 +41,7 @@ We have prepared 30 statements for the upcoming municipal elections in Münster,
 |Essen|v1.3|2020-09-07 13:53|
 |Köln|v1.0|2020-09-01 23:41|
 |Siegen|v1.2|2020-09-07 13:53|
+{: .tablelines}
 
 ---
 
