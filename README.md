@@ -41,7 +41,34 @@ We have prepared 30 statements for the upcoming municipal elections in Münster,
 |Essen|v1.3|2020-09-07 13:53|
 |Köln|v1.0|2020-09-01 23:41|
 |Siegen|v1.2|2020-09-07 13:53|
-{: .tablelines}
+
+### 1
+|city|latest stable|date|
+|----|-------------|----|
+
+|Münster|v1.18|2020-09-07 13:53|
+|Bielefeld|v1.2|2020-09-04 20:50|
+|Essen|v1.3|2020-09-07 13:53|
+|Köln|v1.0|2020-09-01 23:41|
+|Siegen|v1.2|2020-09-07 13:53|
+
+### 2
+|city|latest stable|date|
+
+|----|-------------|----|
+|Münster|v1.18|2020-09-07 13:53|
+|Bielefeld|v1.2|2020-09-04 20:50|
+|Essen|v1.3|2020-09-07 13:53|
+|Köln|v1.0|2020-09-01 23:41|
+|Siegen|v1.2|2020-09-07 13:53|
+
+### 3
+|city|latest stable|date|
+|Münster|v1.18|2020-09-07 13:53|
+|Bielefeld|v1.2|2020-09-04 20:50|
+|Essen|v1.3|2020-09-07 13:53|
+|Köln|v1.0|2020-09-01 23:41|
+|Siegen|v1.2|2020-09-07 13:53|
 
 ---
 
