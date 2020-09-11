@@ -14,7 +14,7 @@ We have prepared 30 statements for the upcoming municipal elections in Münster,
 - **[Münster](https://muenster.kommunalwahlcheck.de)**
 - **[Bielefeld](https://bielefeld.kommunalwahlcheck.de)**
 - **[Essen](https://essen.kommunalwahlcheck.de)**
-- **[Köln](https://koeln.kommunalwahlcheck.de)**
+- **[Köln](https://koeln.kommunalwahlcheck.de)** // [build v1.3](build/koeln/index.html)
 - **[Siegen](https://siegen.kommunalwahlcheck.de)**
 
 **Statements** ("theses") were assembled by [Prof. Kersting's team](https://www.uni-muenster.de/IfPol/Kersting/URII/) at the University of Muenster Institute of Political Science. **Positions** were voluntarily sent in upon the team's request by parties and candidates participating in the upcoming election.
