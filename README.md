@@ -75,7 +75,7 @@ We have prepared 30 statements for the upcoming municipal elections in Münster,
 |Münster|v1.18|2020-09-07 13:53|
 |Bielefeld|v1.2|2020-09-04 20:50|
 |Essen|v1.3|2020-09-07 13:53|
-|Köln|v1.0|2020-09-01 23:41|
+|Köln|v1.4|2020-09-11 15:47|
 |Siegen|v1.2|2020-09-07 13:53|
 
 ---
