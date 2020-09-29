@@ -13,7 +13,7 @@ We prepared a questionnaire for parties and individual candidates participating 
 ### Election know how
 In the Federal Republic of Germany each of the 16 federal states has authority over setting the rules for local, i.e. district, elections on its territory. North Rhine-Westphalia ("NRW") applies the model of the *South German council constitution* according to which city mayors (for urban districts) and district administrators (for rural districts) are not only the highest representatives of their respective municipalities and head of the district authority. They also preside over the city or district council, respectively. They are elected by *direct ballot* as **individual candidates** while the city or district council comprises of **parties** winning seats *proportional* to their share of the public vote. Individual candidates enter a **runoff** election if no one candidate reaches the 50%+1 threshold in the 1st round.
 
-###### Read further (Federal Agency for Civic Education): https://www.bpb.de/nachschlagen/lexika/politiklexikon/17722/kommunalverfassungen
+###### Read further (Federal Agency for Civic Education): [https://www.bpb.de/nachschlagen/lexika/politiklexikon/17722/kommunalverfassungen](https://www.bpb.de/nachschlagen/lexika/politiklexikon/17722/kommunalverfassungen)
 
 
 ### Tool
@@ -37,11 +37,11 @@ While elections were held in all districts of NRW this project is only concerned
 
 ### FAQ
 Want to know more? Visit our \
-[FAQ >](https://www.uni-muenster.de/IfPol/Kersting/online-wahlhilfe/Kommunalwahlcheck-FAQ.html) (currently only available in German).
+[FAQ >](https://www.uni-muenster.de/IfPol/Kersting/online-wahlhilfe/Kommunalwahlcheck-FAQ.html) (currently only available in German)
 
 ### Results
 Read up on the election results (NRW elections administrator):\
-https://www.wahlergebnisse.nrw/kommunalwahlen/
+[https://www.wahlergebnisse.nrw/kommunalwahlen/](https://www.wahlergebnisse.nrw/kommunalwahlen/)
 
 ### Legal
 - [Imprint >](imprint.md)
@@ -51,6 +51,7 @@ https://www.wahlergebnisse.nrw/kommunalwahlen/
 ### Changelog
 |city|latest stable|date|
 |----|-------------|----|
+|README.md|-|2020-09-29 15:35|
 |Münster|v3.3|2020-09-21 17:22|
 |Bielefeld|v3.1|2020-09-16 12:40|
 |Essen|v1.3b|2020-09-07 12:50|
