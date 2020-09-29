@@ -20,18 +20,18 @@ In the Federal Republic of Germany each of the 16 federal states has authority o
 While elections were held in all districts of NRW this project is only concerned with the below-listed districts and election dates:
 
 - Münster
-  - **[(13.09.20) MS City council & mayoral election](https://kommunalwahlcheck.de/muenster)**
-  - **[(27.09.20) MS Mayoral runoff election](https://kommunalwahlcheck.de/muenster-stichwahl)**
+  - **[(13.09.20) MS City council & mayoral election](archive/muenster_round-1.html)**
+  - **[(27.09.20) MS Mayoral runoff election](archive/muenster_round-2.html)**
 - Bielefeld
-  - **[(13.09.20) BI City council & mayoral election](https://kommunalwahlcheck.de/bielefeld)**
-  - **[(27.09.20) BI Mayoral runoff election](https://kommunalwahlcheck.de/bielefeld-stichwahl)**
+  - **[(13.09.20) BI City council & mayoral election](archive/bielefeld_round-1.html)**
+  - **[(27.09.20) BI Mayoral runoff election](archive/bielefeld_round-2.html)**
 - Essen
-  - **[(13.09.20) E City council & mayoral election](https://kommunalwahlcheck.de/essen)**
+  - **[(13.09.20) E City council & mayoral election](archive/essen_round-1.html)**
 - Köln
-  - **[(13.09.20) K City council & mayoral election](https://kommunalwahlcheck.de/koeln)**
-  - **[(27.09.20) K Mayoral runoff election](https://kommunalwahlcheck.de/koeln-stichwahl)**
+  - **[(13.09.20) K City council & mayoral election](archive/koeln_round-1.html)**
+  - **[(27.09.20) K Mayoral runoff election](archive/koeln_round-2.html)**
 - Siegen
-  - **[(13.09.20) SI Mayoral election only](https://kommunalwahlcheck.de/siegen)**
+  - **[(13.09.20) SI Mayoral election only](archive/siegen_round-1.html)**
 
 ---
 
